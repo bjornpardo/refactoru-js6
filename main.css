@@ -1,0 +1,12 @@
+textarea {
+	display: block;
+	margin: 10px;
+}
+
+.show-btn {
+	font-size: 10px;
+}
+
+body {
+	background-color: #95a5a6;
+}
